@@ -1,0 +1,5 @@
+CREATE TABLE student( sid int primary , sname varchar);
+INSERT INTO student VALUES(1, rahul);
+INSERT INTO student VALUES(2, ninad);
+INSERT INTO student VALUES(3, jainam);
+

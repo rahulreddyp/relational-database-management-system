@@ -1,0 +1,8 @@
+Aug 05, 2021 9:16:44 PM queries.QueryParser parseQueryOperation
+INFO: Action: use dal; : Time: 2021-08-05 21:16:43.983 Duration: Executed in 5476 milli seconds
+Aug 05, 2021 9:17:07 PM queries.Create createTable
+INFO: Action: create table department(id int, dname varchar); Output: 0 rows(s) affected
+Aug 05, 2021 9:17:07 PM queries.Create createTable
+Aug 05, 2021 9:17:07 PM queries.QueryParser parseQueryOperation
+INFO: Action: create table department(id int, dname varchar); : Time: 2021-08-05 21:17:07.563 Duration: Executed in 26443 milli seconds
+Aug 05, 2021 9:17:07 PM queries.QueryParser parseQueryOperation
